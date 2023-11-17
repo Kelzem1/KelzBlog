@@ -1,0 +1,31 @@
+.Header {
+    background-color: rgb(230, 230, 230);
+    padding: 20px;
+    display: flex;
+    height: 5vh;
+    gap: 50%;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    display: flex;
+    padding: 20px;
+}
+.RightNav{
+    display: flex;
+    height: 30px;
+    justify-content: left;
+    align-items: center;
+    padding: 5px;
+
+}
+.Lupa{
+    display: flex;
+
+}
+.Burguer{
+    display: flex;
+    padding: 5px;
+    justify-content: right;
+
+}
